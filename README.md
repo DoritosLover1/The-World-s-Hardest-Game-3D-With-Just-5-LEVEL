@@ -15,7 +15,7 @@ This project is a 3D adaptation of *The World's Hardest Game*, featuring only fi
    ```bash
    git clone https://github.com/DoritosLover1/The-World-s-Hardest-Game-3D-With-Just-5-LEVEL.git
    ```
-2. Open the project in Unity (recommended version: *[insert version here]*).
+2. Open the project in Unity (recommended version: *6000.0.38f1-LTS*).
 3. Build and run the game.
 
 ## How to Play 🎯
