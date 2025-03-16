@@ -31,5 +31,10 @@ public class MainMenu : MonoBehaviour
         yield return new WaitForSeconds(fadeDuration); // İsteğe bağlı gecikme
         SceneManager.LoadScene(sceneIndex); // Yeni sahneyi yükle
     }
+
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
 }
 
